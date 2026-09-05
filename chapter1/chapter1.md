@@ -125,7 +125,7 @@ PK/FK관계로 연결이 필요하다.
 
 ### Evidence
 ![STEP 2 데이터 구조 확인](images/step02_data_structure.png)
-제 github에 올려놓았습니다.
+
 ---
 
 ## 3. LLM에게 분석 질문 후보 요청
