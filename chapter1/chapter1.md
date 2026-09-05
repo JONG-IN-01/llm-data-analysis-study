@@ -186,7 +186,8 @@ LLM에게 실제 데이터를 제공하지 않았기 때문에 이상적인 데�
 ### Evidence
 
 ![STEP 3 LLM Prompt와 응답](images/step03_llm_response.png)
-
+(images/step03_llm_response1.png)
+(images/step03_llm_response2.png)
 ---
 
 ## 4. LLM 제안 검증
