@@ -16,7 +16,7 @@
 ### 최종 제출 URL
 
 ```text
-https://github.com/JONG-IN-01/llm-data-analysis-study/blob/main/chapter1/chapter1
+https://github.com/JONG-IN-01/llm-data-analysis-study/blob/main/chapter1/chapter1.md
 ```
 
 ---
