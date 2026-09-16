@@ -4,16 +4,16 @@
 
 ## 0. 제출 정보
 
-- 이름:
-- GitHub ID:
+- 이름: 최종인
+- GitHub ID: JONG-IN-01
 - 개인 저장소: `llm-data-analysis-study`
-- 작성일:
-- 운영체제:
+- 작성일: 2026-09-16
+- 운영체제: Windows
 
 ### 최종 제출 URL
 
 ```text
-https://github.com/<GitHub-ID>/llm-data-analysis-study/blob/main/chapter02/chapter02.md
+https://github.com/JONG-IN-01/llm-data-analysis-study/edit/main/chapter2/chapter2.md
 ```
 
 ---
@@ -35,7 +35,8 @@ git --version
 
 ### Evidence
 
-![Python과 Git 버전](images/step01_versions.png)
+![Python과 Git 버전](images/step01_versions(1).png)
+![Python과 Git 버전](images/step01_versions(2).png)
 
 ### 결과 관찰
 
