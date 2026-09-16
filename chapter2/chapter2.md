@@ -221,8 +221,9 @@ chat gpt가 알려준 코드를 작동하고 vscode를 다시 껐다가 작동�
 ### Evidence
 
 아직 GIT과 VScode를 연결하지 않았다.
+GIT clone은 했지만, GIT BASIC 강의를 아직 듣지 않아 적용해놓지 않았다.
 
-![Secret 보호 확인](images/step06_security.png)
+
 
 ### 나의 해석과 판단
 
