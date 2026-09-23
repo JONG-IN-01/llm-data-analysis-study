@@ -3,14 +3,14 @@
 > 주 제출물은 실행 완료 Notebook `chapter03/chapter03.ipynb`입니다. 이 양식의 항목을 Notebook의 Markdown 셀로 추가해 작성합니다.
 
 ## 0. 제출 정보
-- 이름:
-- GitHub ID:
-- 작성일:
+- 이름: 최종인
+- GitHub ID: JONG-IN-01
+- 작성일: 2026-09-23
 - 최종 제출 URL:
 
 ## 1. 데이터 로딩과 구조 확인
 ### 실행/결과
-- 4개 CSV 로딩 여부:
+- 4개 CSV 로딩 여부: 
 - 각 데이터 shape:
 - 주요 컬럼:
 - dtypes에서 주목한 컬럼:
